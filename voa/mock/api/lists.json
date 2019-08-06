@@ -1,0 +1,743 @@
+{
+    "ret": true,
+    "secondFloor": "VOA常速英语",
+    "thirdFloor": "VOA常速英语音频",
+    "pageMaxnum":24,
+    "pageMinnum":0,
+    "data": [
+        {
+            "id": "18950",
+            "titlefont": "African Leaders to Choose New AU Chair at Busy Summit",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18950.html"
+        },
+        {
+            "id": "18949",
+            "titlefont": "Islamic State Losing Grip on Mosul",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18949.html"
+        },
+        {
+            "id": "18929",
+            "titlefont": "Looking Back -- Climate Change Mitigation Milestones",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18929.html"
+        },
+        {
+            "id": "18928",
+            "titlefont": "Religious Freedom Day",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18928.html"
+        },
+        {
+            "id": "18925",
+            "titlefont": "U.S. Condemns Jerusalem Terrorist Attack",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18925.html"
+        },
+        {
+            "id": "18924",
+            "titlefont": "ISIL Under Pressure",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18924.html"
+        },
+        {
+            "id": "18923",
+            "titlefont": "Russia Designated Over 150 NGOs Foreign Agents",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18923.html"
+        },
+        {
+            "id": "18909",
+            "titlefont": "U.S. Will Defend Against North Korean Threat",
+            "pubdate": "(2017-01-12)",
+            "link": "/voa-standard-english/mp3/18909.html"
+        },
+        {
+            "id": "18904",
+            "titlefont": "Hamza Bin Laden Designated a Terrorist",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18904.html"
+        },
+        {
+            "id": "18903",
+            "titlefont": "Innovation in Defense Partnership",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18903.html"
+        },
+        {
+            "id": "18893",
+            "titlefont": "In 'Hidden Figures' 3 African American Women Help NASA Win 60s Space Race",
+            "pubdate": "(2017-01-08)",
+            "link": "/voa-standard-english/mp3/18893.html"
+        },
+        {
+            "id": "18886",
+            "titlefont": "Importance of Inter-Religious Harmony",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18886.html"
+        },
+        {
+            "id": "18885",
+            "titlefont": "U.S.-South Korea Defense Policy",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18885.html"
+        },
+        {
+            "id": "18884",
+            "titlefont": "Lebanon's New Government",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18884.html"
+        },
+        {
+            "id": "18865",
+            "titlefont": "Promoting International Labor Rights",
+            "pubdate": "(2017-01-03)",
+            "link": "/voa-standard-english/mp3/18865.html"
+        },
+        {
+            "id": "18862",
+            "titlefont": "Supporting Disability Rights",
+            "pubdate": "(2017-01-02)",
+            "link": "/voa-standard-english/mp3/18862.html"
+        },
+        {
+            "id": "18844",
+            "titlefont": "Big Challenges Await New US Defense Team in 2017",
+            "pubdate": "(2016-12-29)",
+            "link": "/voa-standard-english/mp3/18844.html"
+        },
+        {
+            "id": "18835",
+            "titlefont": "Signatory to USSR’s Collapse Rejects Gorbachev, Putin Criticism",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18835.html"
+        },
+        {
+            "id": "18834",
+            "titlefont": "Belarus' Post-Soviet Economy: Tractors to World of Tanks",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18834.html"
+        },
+        {
+            "id": "18821",
+            "titlefont": "African American-Themed ‘Fences’ Could Change ‘Oscars So White’",
+            "pubdate": "(2016-12-24)",
+            "link": "/voa-standard-english/mp3/18821.html"
+        },
+        {
+            "id": "18820",
+            "titlefont": "Scientists Decipher Fact From Fantasy in Movie 'Passengers'",
+            "pubdate": "(2016-12-23)",
+            "link": "/voa-standard-english/mp3/18820.html"
+        },
+        {
+            "id": "18819",
+            "titlefont": "25 Years After End of the USSR, Europe Sees Opportunities Missed",
+            "pubdate": "(2016-12-23)",
+            "link": "/voa-standard-english/mp3/18819.html"
+        },
+        {
+            "id": "18815",
+            "titlefont": "Successes and Costs in the Fight Against ISIL",
+            "pubdate": "(2016-12-22)",
+            "link": "/voa-standard-english/mp3/18815.html"
+        },
+        {
+            "id": "18814",
+            "titlefont": "Kerry at NATO Ministerial",
+            "pubdate": "(2016-12-22)",
+            "link": "/voa-standard-english/mp3/18814.html"
+        },
+        {
+            "id": "18781",
+            "titlefont": "The Long View of the Terrorist Threat",
+            "pubdate": "(2016-12-16)",
+            "link": "/voa-standard-english/mp3/18781.html"
+        },
+        {
+            "id": "18756",
+            "titlefont": "Sewall on Next Steps in CVE",
+            "pubdate": "(2016-12-07)",
+            "link": "/voa-standard-english/mp3/18756.html"
+        },
+        {
+            "id": "18755",
+            "titlefont": "Shining Path Leaders Designated Terrorists",
+            "pubdate": "(2016-12-07)",
+            "link": "/voa-standard-english/mp3/18755.html"
+        },
+        {
+            "id": "18746",
+            "titlefont": "Past and Present Injustice in Iran",
+            "pubdate": "(2016-12-06)",
+            "link": "/voa-standard-english/mp3/18746.html"
+        },
+        {
+            "id": "18745",
+            "titlefont": "Preliminary Election Results in Haiti",
+            "pubdate": "(2016-12-06)",
+            "link": "/voa-standard-english/mp3/18745.html"
+        },
+        {
+            "id": "18744",
+            "titlefont": "Keep the Internet Up and Running",
+            "pubdate": "(2016-12-06)",
+            "link": "/voa-standard-english/mp3/18744.html"
+        },
+        {
+            "id": "18735",
+            "titlefont": "In Georgia, An illegitimate Russian Move",
+            "pubdate": "(2016-12-04)",
+            "link": "/voa-standard-english/mp3/18735.html"
+        },
+        {
+            "id": "18734",
+            "titlefont": "Destroying Syria",
+            "pubdate": "(2016-12-04)",
+            "link": "/voa-standard-english/mp3/18734.html"
+        },
+        {
+            "id": "18730",
+            "titlefont": "As Assad Pushes into Aleppo, Rebellion's Future Unclear",
+            "pubdate": "(2016-12-03)",
+            "link": "/voa-standard-english/mp3/18730.html"
+        },
+        {
+            "id": "18729",
+            "titlefont": "Companies in Russia Cautiously Optimistic After Trump Election",
+            "pubdate": "(2016-12-03)",
+            "link": "/voa-standard-english/mp3/18729.html"
+        },
+        {
+            "id": "18719",
+            "titlefont": "Advancing Clean Technologies is Good Business",
+            "pubdate": "(2016-12-01)",
+            "link": "/voa-standard-english/mp3/18719.html"
+        },
+        {
+            "id": "18716",
+            "titlefont": "Remembering Transgender Victims of Violence",
+            "pubdate": "(2016-11-30)",
+            "link": "/voa-standard-english/mp3/18716.html"
+        },
+        {
+            "id": "18715",
+            "titlefont": "Empowering Women in APEC",
+            "pubdate": "(2016-11-30)",
+            "link": "/voa-standard-english/mp3/18715.html"
+        },
+        {
+            "id": "18714",
+            "titlefont": "Food Assistance to Malawi",
+            "pubdate": "(2016-11-30)",
+            "link": "/voa-standard-english/mp3/18714.html"
+        },
+        {
+            "id": "18701",
+            "titlefont": "In Defense of Democracy",
+            "pubdate": "(2016-11-28)",
+            "link": "/voa-standard-english/mp3/18701.html"
+        },
+        {
+            "id": "18696",
+            "titlefont": "Fighting ISIL on the Digital Battlefield",
+            "pubdate": "(2016-11-27)",
+            "link": "/voa-standard-english/mp3/18696.html"
+        },
+        {
+            "id": "18695",
+            "titlefont": "Stepping Up Global Health Security",
+            "pubdate": "(2016-11-27)",
+            "link": "/voa-standard-english/mp3/18695.html"
+        },
+        {
+            "id": "18692",
+            "titlefont": "Civilian Safety Paramount in Mosul Fight",
+            "pubdate": "(2016-11-26)",
+            "link": "/voa-standard-english/mp3/18692.html"
+        },
+        {
+            "id": "18691",
+            "titlefont": "Countryman on to Walk the Earth in Safety Report",
+            "pubdate": "(2016-11-26)",
+            "link": "/voa-standard-english/mp3/18691.html"
+        },{
+            "id": "18950",
+            "titlefont": "African Leaders to Choose New AU Chair at Busy Summit",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18950.html"
+        },
+        {
+            "id": "18949",
+            "titlefont": "Islamic State Losing Grip on Mosul",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18949.html"
+        },
+        {
+            "id": "18929",
+            "titlefont": "Looking Back -- Climate Change Mitigation Milestones",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18929.html"
+        },
+        {
+            "id": "18928",
+            "titlefont": "Religious Freedom Day",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18928.html"
+        },
+        {
+            "id": "18925",
+            "titlefont": "U.S. Condemns Jerusalem Terrorist Attack",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18925.html"
+        },
+        {
+            "id": "18924",
+            "titlefont": "ISIL Under Pressure",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18924.html"
+        },
+        {
+            "id": "18923",
+            "titlefont": "Russia Designated Over 150 NGOs Foreign Agents",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18923.html"
+        },
+        {
+            "id": "18909",
+            "titlefont": "U.S. Will Defend Against North Korean Threat",
+            "pubdate": "(2017-01-12)",
+            "link": "/voa-standard-english/mp3/18909.html"
+        },
+        {
+            "id": "18904",
+            "titlefont": "Hamza Bin Laden Designated a Terrorist",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18904.html"
+        },
+        {
+            "id": "18903",
+            "titlefont": "Innovation in Defense Partnership",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18903.html"
+        },
+        {
+            "id": "18893",
+            "titlefont": "In 'Hidden Figures' 3 African American Women Help NASA Win 60s Space Race",
+            "pubdate": "(2017-01-08)",
+            "link": "/voa-standard-english/mp3/18893.html"
+        },
+        {
+            "id": "18886",
+            "titlefont": "Importance of Inter-Religious Harmony",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18886.html"
+        },
+        {
+            "id": "18885",
+            "titlefont": "U.S.-South Korea Defense Policy",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18885.html"
+        },
+        {
+            "id": "18884",
+            "titlefont": "Lebanon's New Government",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18884.html"
+        },
+        {
+            "id": "18865",
+            "titlefont": "Promoting International Labor Rights",
+            "pubdate": "(2017-01-03)",
+            "link": "/voa-standard-english/mp3/18865.html"
+        },
+        {
+            "id": "18862",
+            "titlefont": "Supporting Disability Rights",
+            "pubdate": "(2017-01-02)",
+            "link": "/voa-standard-english/mp3/18862.html"
+        },
+        {
+            "id": "18844",
+            "titlefont": "Big Challenges Await New US Defense Team in 2017",
+            "pubdate": "(2016-12-29)",
+            "link": "/voa-standard-english/mp3/18844.html"
+        },
+        {
+            "id": "18835",
+            "titlefont": "Signatory to USSR’s Collapse Rejects Gorbachev, Putin Criticism",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18835.html"
+        },
+        {
+            "id": "18834",
+            "titlefont": "Belarus' Post-Soviet Economy: Tractors to World of Tanks",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18834.html"
+        },
+        {
+            "id": "18821",
+            "titlefont": "African American-Themed ‘Fences’ Could Change ‘Oscars So White’",
+            "pubdate": "(2016-12-24)",
+            "link": "/voa-standard-english/mp3/18821.html"
+        },{
+            "id": "18950",
+            "titlefont": "African Leaders to Choose New AU Chair at Busy Summit",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18950.html"
+        },
+        {
+            "id": "18949",
+            "titlefont": "Islamic State Losing Grip on Mosul",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18949.html"
+        },
+        {
+            "id": "18929",
+            "titlefont": "Looking Back -- Climate Change Mitigation Milestones",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18929.html"
+        },
+        {
+            "id": "18928",
+            "titlefont": "Religious Freedom Day",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18928.html"
+        },
+        {
+            "id": "18925",
+            "titlefont": "U.S. Condemns Jerusalem Terrorist Attack",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18925.html"
+        },
+        {
+            "id": "18924",
+            "titlefont": "ISIL Under Pressure",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18924.html"
+        },
+        {
+            "id": "18923",
+            "titlefont": "Russia Designated Over 150 NGOs Foreign Agents",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18923.html"
+        },
+        {
+            "id": "18909",
+            "titlefont": "U.S. Will Defend Against North Korean Threat",
+            "pubdate": "(2017-01-12)",
+            "link": "/voa-standard-english/mp3/18909.html"
+        },
+        {
+            "id": "18904",
+            "titlefont": "Hamza Bin Laden Designated a Terrorist",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18904.html"
+        },
+        {
+            "id": "18903",
+            "titlefont": "Innovation in Defense Partnership",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18903.html"
+        },
+        {
+            "id": "18893",
+            "titlefont": "In 'Hidden Figures' 3 African American Women Help NASA Win 60s Space Race",
+            "pubdate": "(2017-01-08)",
+            "link": "/voa-standard-english/mp3/18893.html"
+        },
+        {
+            "id": "18886",
+            "titlefont": "Importance of Inter-Religious Harmony",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18886.html"
+        },
+        {
+            "id": "18885",
+            "titlefont": "U.S.-South Korea Defense Policy",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18885.html"
+        },
+        {
+            "id": "18884",
+            "titlefont": "Lebanon's New Government",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18884.html"
+        },
+        {
+            "id": "18865",
+            "titlefont": "Promoting International Labor Rights",
+            "pubdate": "(2017-01-03)",
+            "link": "/voa-standard-english/mp3/18865.html"
+        },
+        {
+            "id": "18862",
+            "titlefont": "Supporting Disability Rights",
+            "pubdate": "(2017-01-02)",
+            "link": "/voa-standard-english/mp3/18862.html"
+        },
+        {
+            "id": "18844",
+            "titlefont": "Big Challenges Await New US Defense Team in 2017",
+            "pubdate": "(2016-12-29)",
+            "link": "/voa-standard-english/mp3/18844.html"
+        },
+        {
+            "id": "18835",
+            "titlefont": "Signatory to USSR’s Collapse Rejects Gorbachev, Putin Criticism",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18835.html"
+        },
+        {
+            "id": "18834",
+            "titlefont": "Belarus' Post-Soviet Economy: Tractors to World of Tanks",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18834.html"
+        },
+        {
+            "id": "18821",
+            "titlefont": "African American-Themed ‘Fences’ Could Change ‘Oscars So White’",
+            "pubdate": "(2016-12-24)",
+            "link": "/voa-standard-english/mp3/18821.html"
+        },{
+            "id": "18950",
+            "titlefont": "African Leaders to Choose New AU Chair at Busy Summit",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18950.html"
+        },
+        {
+            "id": "18949",
+            "titlefont": "Islamic State Losing Grip on Mosul",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18949.html"
+        },
+        {
+            "id": "18929",
+            "titlefont": "Looking Back -- Climate Change Mitigation Milestones",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18929.html"
+        },
+        {
+            "id": "18928",
+            "titlefont": "Religious Freedom Day",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18928.html"
+        },
+        {
+            "id": "18925",
+            "titlefont": "U.S. Condemns Jerusalem Terrorist Attack",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18925.html"
+        },
+        {
+            "id": "18924",
+            "titlefont": "ISIL Under Pressure",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18924.html"
+        },
+        {
+            "id": "18923",
+            "titlefont": "Russia Designated Over 150 NGOs Foreign Agents",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18923.html"
+        },
+        {
+            "id": "18909",
+            "titlefont": "U.S. Will Defend Against North Korean Threat",
+            "pubdate": "(2017-01-12)",
+            "link": "/voa-standard-english/mp3/18909.html"
+        },
+        {
+            "id": "18904",
+            "titlefont": "Hamza Bin Laden Designated a Terrorist",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18904.html"
+        },
+        {
+            "id": "18903",
+            "titlefont": "Innovation in Defense Partnership",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18903.html"
+        },
+        {
+            "id": "18893",
+            "titlefont": "In 'Hidden Figures' 3 African American Women Help NASA Win 60s Space Race",
+            "pubdate": "(2017-01-08)",
+            "link": "/voa-standard-english/mp3/18893.html"
+        },
+        {
+            "id": "18886",
+            "titlefont": "Importance of Inter-Religious Harmony",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18886.html"
+        },
+        {
+            "id": "18885",
+            "titlefont": "U.S.-South Korea Defense Policy",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18885.html"
+        },
+        {
+            "id": "18884",
+            "titlefont": "Lebanon's New Government",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18884.html"
+        },
+        {
+            "id": "18865",
+            "titlefont": "Promoting International Labor Rights",
+            "pubdate": "(2017-01-03)",
+            "link": "/voa-standard-english/mp3/18865.html"
+        },
+        {
+            "id": "18862",
+            "titlefont": "Supporting Disability Rights",
+            "pubdate": "(2017-01-02)",
+            "link": "/voa-standard-english/mp3/18862.html"
+        },
+        {
+            "id": "18844",
+            "titlefont": "Big Challenges Await New US Defense Team in 2017",
+            "pubdate": "(2016-12-29)",
+            "link": "/voa-standard-english/mp3/18844.html"
+        },
+        {
+            "id": "18835",
+            "titlefont": "Signatory to USSR’s Collapse Rejects Gorbachev, Putin Criticism",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18835.html"
+        },
+        {
+            "id": "18834",
+            "titlefont": "Belarus' Post-Soviet Economy: Tractors to World of Tanks",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18834.html"
+        },
+        {
+            "id": "18821",
+            "titlefont": "African American-Themed ‘Fences’ Could Change ‘Oscars So White’",
+            "pubdate": "(2016-12-24)",
+            "link": "/voa-standard-english/mp3/18821.html"
+        },{
+            "id": "18950",
+            "titlefont": "African Leaders to Choose New AU Chair at Busy Summit",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18950.html"
+        },
+        {
+            "id": "18949",
+            "titlefont": "Islamic State Losing Grip on Mosul",
+            "pubdate": "(2017-01-25)",
+            "link": "/voa-standard-english/mp3/18949.html"
+        },
+        {
+            "id": "18929",
+            "titlefont": "Looking Back -- Climate Change Mitigation Milestones",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18929.html"
+        },
+        {
+            "id": "18928",
+            "titlefont": "Religious Freedom Day",
+            "pubdate": "(2017-01-18)",
+            "link": "/voa-standard-english/mp3/18928.html"
+        },
+        {
+            "id": "18925",
+            "titlefont": "U.S. Condemns Jerusalem Terrorist Attack",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18925.html"
+        },
+        {
+            "id": "18924",
+            "titlefont": "ISIL Under Pressure",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18924.html"
+        },
+        {
+            "id": "18923",
+            "titlefont": "Russia Designated Over 150 NGOs Foreign Agents",
+            "pubdate": "(2017-01-15)",
+            "link": "/voa-standard-english/mp3/18923.html"
+        },
+        {
+            "id": "18909",
+            "titlefont": "U.S. Will Defend Against North Korean Threat",
+            "pubdate": "(2017-01-12)",
+            "link": "/voa-standard-english/mp3/18909.html"
+        },
+        {
+            "id": "18904",
+            "titlefont": "Hamza Bin Laden Designated a Terrorist",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18904.html"
+        },
+        {
+            "id": "18903",
+            "titlefont": "Innovation in Defense Partnership",
+            "pubdate": "(2017-01-11)",
+            "link": "/voa-standard-english/mp3/18903.html"
+        },
+        {
+            "id": "18893",
+            "titlefont": "In 'Hidden Figures' 3 African American Women Help NASA Win 60s Space Race",
+            "pubdate": "(2017-01-08)",
+            "link": "/voa-standard-english/mp3/18893.html"
+        },
+        {
+            "id": "18886",
+            "titlefont": "Importance of Inter-Religious Harmony",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18886.html"
+        },
+        {
+            "id": "18885",
+            "titlefont": "U.S.-South Korea Defense Policy",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18885.html"
+        },
+        {
+            "id": "18884",
+            "titlefont": "Lebanon's New Government",
+            "pubdate": "(2017-01-07)",
+            "link": "/voa-standard-english/mp3/18884.html"
+        },
+        {
+            "id": "18865",
+            "titlefont": "Promoting International Labor Rights",
+            "pubdate": "(2017-01-03)",
+            "link": "/voa-standard-english/mp3/18865.html"
+        },
+        {
+            "id": "18862",
+            "titlefont": "Supporting Disability Rights",
+            "pubdate": "(2017-01-02)",
+            "link": "/voa-standard-english/mp3/18862.html"
+        },
+        {
+            "id": "18844",
+            "titlefont": "Big Challenges Await New US Defense Team in 2017",
+            "pubdate": "(2016-12-29)",
+            "link": "/voa-standard-english/mp3/18844.html"
+        },
+        {
+            "id": "18835",
+            "titlefont": "Signatory to USSR’s Collapse Rejects Gorbachev, Putin Criticism",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18835.html"
+        },
+        {
+            "id": "18834",
+            "titlefont": "Belarus' Post-Soviet Economy: Tractors to World of Tanks",
+            "pubdate": "(2016-12-27)",
+            "link": "/voa-standard-english/mp3/18834.html"
+        },
+        {
+            "id": "18821",
+            "titlefont": "African American-Themed ‘Fences’ Could Change ‘Oscars So White’",
+            "pubdate": "(2016-12-24)",
+            "link": "/voa-standard-english/mp3/18821.html"
+        }
+    ]
+}

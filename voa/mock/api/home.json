@@ -1,0 +1,349 @@
+{
+    "ret": true,
+    "data": {
+        "homeList": [
+            {
+                "id": "www",
+                "describe": "[ 暖湾 ]",
+                "title": "宠物鱼品牌推广～",
+                "pubdate": "",
+                "link": "http://www.nuanwan.com"
+            },
+            {
+                "id": "12645",
+                "describe": "[ 空中英语教室 ]",
+                "title": "本年度亚洲最佳英文教学奖:《空中英语教室》系列杂志!",
+                "pubdate": "",
+                "link": "http://www.easyvoa.com/voa-related/12645.html"
+            },
+            {
+                "id": "19988",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Trump to Attend Davos Meeting, Trade Likely a Top Issue",
+                "pubdate": "(2018-01-24)",
+                "link": "/AS_IT_IS/19988.html"
+            },
+            {
+                "id": "19987",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Russian-Linked Twitter Accounts Not Done with US Government Shutdown",
+                "pubdate": "(2018-01-24)",
+                "link": "/AS_IT_IS/19987.html"
+            },
+            {
+                "id": "19986",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "People Slowly Return to Former Rebel Stronghold of Homs",
+                "pubdate": "(2018-01-24)",
+                "link": "/AS_IT_IS/19986.html"
+            },
+            {
+                "id": "19985",
+                "color": "#a08a21",
+                "describe": "[ 教育报道 ]",
+                "title": "Artificial Intelligence Beats Humans in Major Reading Test",
+                "pubdate": "(2018-01-24)",
+                "link": "/details/19985"
+            },
+            {
+                "id": "19984",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Keeping the Pressure on North Korea",
+                "pubdate": "(2018-01-24)",
+                "link": "/voa-standard-english/mp3/19984.html"
+            },
+            {
+                "id": "19983",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Report Warns Traffic Deaths Hurt Developing Economies",
+                "pubdate": "(2018-01-22)",
+                "link": "/AS_IT_IS/19983.html"
+            },
+            {
+                "id": "19982",
+                "color": "#a08a21",
+                "describe": "[ 经济报道 ]",
+                "title": "US Policy May Cause Trade War with Chinese Internet Companies",
+                "pubdate": "(2018-01-22)",
+                "link": "/voa-speacial-english/Economics-Report/19982.html"
+            },
+            {
+                "id": "19981",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "New Technology Reads Ancient Documents without Opening Them",
+                "pubdate": "(2018-01-22)",
+                "link": "/voa-speacial-english/Technology-Report/19981.html"
+            },
+            {
+                "id": "19980",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "Scientists Discover a Dinosaur with Shiny, Color-Changing Feathers",
+                "pubdate": "(2018-01-22)",
+                "link": "/voa-speacial-english/Technology-Report/19980.html"
+            },
+            {
+                "id": "19979",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "US Proposes Opening Most Coastal Waters for Oil Drilling",
+                "pubdate": "(2018-01-11)",
+                "link": "/AS_IT_IS/19979.html"
+            },
+            {
+                "id": "19978",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "South Korea's President Willing to Talk with Kim Jong Un",
+                "pubdate": "(2018-01-11)",
+                "link": "/AS_IT_IS/19978.html"
+            },
+            {
+                "id": "19977",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Journalists Must be Protected",
+                "pubdate": "(2018-01-11)",
+                "link": "/voa-standard-english/mp3/19977.html"
+            },
+            {
+                "id": "19976",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Al-Qaida Affiliate Terrorist Designations",
+                "pubdate": "(2018-01-11)",
+                "link": "/voa-standard-english/mp3/19976.html"
+            },
+            {
+                "id": "19975",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "CES 2018: Voice-Controlled Assistants Steal the Show",
+                "pubdate": "(2018-01-09)",
+                "link": "/voa-speacial-english/Technology-Report/19975.html"
+            },
+            {
+                "id": "19974",
+                "color": "#a08a21",
+                "describe": "[ 健康报道 ]",
+                "title": "Large Review of Coffee Studies Finds ... Not Much New",
+                "pubdate": "(2018-01-09)",
+                "link": "/voa-speacial-english/Health-Report/19974.html"
+            },
+            {
+                "id": "19973",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Sanctioning North Korea Officials",
+                "pubdate": "(2018-01-09)",
+                "link": "/voa-standard-english/mp3/19973.html"
+            },
+            {
+                "id": "19972",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "China Offers to Work with US on Opioid Drug Crisis",
+                "pubdate": "(2018-01-05)",
+                "link": "/AS_IT_IS/19972.html"
+            },
+            {
+                "id": "19971",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "US Attorney General Ends Obama Marijuana Policy",
+                "pubdate": "(2018-01-05)",
+                "link": "/AS_IT_IS/19971.html"
+            },
+            {
+                "id": "19970",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Iranian Americans Closely Watching Protests in Iran",
+                "pubdate": "(2018-01-05)",
+                "link": "/AS_IT_IS/19970.html"
+            },
+            {
+                "id": "19969",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "What Is a 'Bomb Cyclone?'",
+                "pubdate": "(2018-01-05)",
+                "link": "/AS_IT_IS/19969.html"
+            },
+            {
+                "id": "19968",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Pakistan Meets with US Ambassador over Trump’s Comments",
+                "pubdate": "(2018-01-03)",
+                "link": "/AS_IT_IS/19968.html"
+            },
+            {
+                "id": "19967",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "South Korea Calls for Talks with North Korea on Winter Olympics",
+                "pubdate": "(2018-01-03)",
+                "link": "/AS_IT_IS/19967.html"
+            },
+            {
+                "id": "19966",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Trump Praises Iranian Protesters",
+                "pubdate": "(2018-01-03)",
+                "link": "/AS_IT_IS/19966.html"
+            },
+            {
+                "id": "19965",
+                "color": "#a08a21",
+                "describe": "[ 健康报道 ]",
+                "title": "American English Words Borrowed from Japanese",
+                "pubdate": "(2018-01-03)",
+                "link": "/voa-speacial-english/Health-Report/19965.html"
+            },
+            {
+                "id": "19964",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Preserving Cambodia's Cultural Treasures",
+                "pubdate": "(2018-01-03)",
+                "link": "/voa-standard-english/mp3/19964.html"
+            },
+            {
+                "id": "19963",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Number of Orphans Drops in Countries Around the World",
+                "pubdate": "(2018-01-02)",
+                "link": "/AS_IT_IS/19963.html"
+            },
+            {
+                "id": "19962",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Tourism Is on the Rise in America's 'Coal Country'",
+                "pubdate": "(2018-01-02)",
+                "link": "/AS_IT_IS/19962.html"
+            },
+            {
+                "id": "19961",
+                "color": "#a08a21",
+                "describe": "[ 健康报道 ]",
+                "title": "Food Cravings: They're All in Your Brain.",
+                "pubdate": "(2018-01-02)",
+                "link": "/voa-speacial-english/Health-Report/19961.html"
+            },
+            {
+                "id": "19960",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "Newly Discovered Solar System Matches Our Own",
+                "pubdate": "(2018-01-02)",
+                "link": "/voa-speacial-english/Technology-Report/19960.html"
+            },
+            {
+                "id": "19959",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Botswana Turns to Trained Dogs to Protect Wildlife",
+                "pubdate": "(2017-12-26)",
+                "link": "/AS_IT_IS/19959.html"
+            },
+            {
+                "id": "19958",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Civil War Leads South Sudan Closer to Starvation",
+                "pubdate": "(2017-12-26)",
+                "link": "/AS_IT_IS/19958.html"
+            },
+            {
+                "id": "19957",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "Gene Therapy for Rare Form of Blindness Approved in US",
+                "pubdate": "(2017-12-26)",
+                "link": "/voa-speacial-english/Technology-Report/19957.html"
+            },
+            {
+                "id": "19956",
+                "color": "#a08a21",
+                "describe": "[ 健康报道 ]",
+                "title": "A Look Back at Health, Lifestyle for the Year",
+                "pubdate": "(2017-12-26)",
+                "link": "/voa-speacial-english/Health-Report/19956.html"
+            },
+            {
+                "id": "19955",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Tillerson Affirms North Korean Threat",
+                "pubdate": "(2017-12-26)",
+                "link": "/voa-standard-english/mp3/19955.html"
+            },
+            {
+                "id": "19954",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "George W. Bush: Wartime President",
+                "pubdate": "(2017-12-25)",
+                "link": "/AS_IT_IS/19954.html"
+            },
+            {
+                "id": "19953",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "New Indian Retirement Community in California",
+                "pubdate": "(2017-12-25)",
+                "link": "/AS_IT_IS/19953.html"
+            },
+            {
+                "id": "19952",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "A History of Christmas in America",
+                "pubdate": "(2017-12-25)",
+                "link": "/AS_IT_IS/19952.html"
+            },
+            {
+                "id": "19951",
+                "color": "#a08a21",
+                "describe": "[ 科技报道 ]",
+                "title": "Top Science Stories from 2017",
+                "pubdate": "(2017-12-25)",
+                "link": "/voa-speacial-english/Technology-Report/19951.html"
+            },
+            {
+                "id": "19950",
+                "color": "#b04533",
+                "describe": "[ VOA常速英语 ]",
+                "title": "Safe Water for Haiti",
+                "pubdate": "(2017-12-25)",
+                "link": "/voa-standard-english/mp3/19950.html"
+            },
+            {
+                "id": "19949",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Grammar and Christmas",
+                "pubdate": "(2017-12-22)",
+                "link": "/AS_IT_IS/19949.html"
+            },
+            {
+                "id": "19948",
+                "color": "#3b8070",
+                "describe": "[ AS IT IS ]",
+                "title": "Squatters Demonstrate Brazil’s Poverty",
+                "pubdate": "(2017-12-22)",
+                "link": "/AS_IT_IS/19948.html"
+            }
+        ]
+    }
+}

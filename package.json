@@ -1,0 +1,11 @@
+{
+  "name": "nodeser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "anywhere": "^1.4.0",
+    "cheerio": "^1.0.0-rc.2",
+    "step": "^1.0.0"
+  }
+}
